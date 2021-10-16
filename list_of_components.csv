@@ -1,0 +1,11 @@
+﻿component_name,description,lead_name,assigneeType,isAssigneeTypeValid,project
+Component1,Description1,admin,UNASSIGNED,true,TEST
+Component2,Description2,admin,UNASSIGNED,true,TEST
+Component3,Description3,admin,UNASSIGNED,true,TEST
+Component4,Description4,admin,UNASSIGNED,true,TEST
+Component5,Description5,admin,UNASSIGNED,true,TEST
+Component6,Description6,admin,UNASSIGNED,true,TEST
+Component7,Description7,admin,UNASSIGNED,true,TEST
+Component8,Description8,admin,UNASSIGNED,true,TEST
+Component9,Description9,admin,UNASSIGNED,true,TEST
+Component10,Description10,admin,UNASSIGNED,true,TEST
